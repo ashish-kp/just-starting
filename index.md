@@ -1,12 +1,12 @@
  # Higher Moments Of Observables in a Non-Linear Kerr Medium     
  
- Here the codes and the resulting plots for the observables and their combinations for a Kerr medium are given. The Hamiltonian for the system is given by: nigga
+ Here the codes and the resulting plots for the observables and their combinations for a Kerr medium are given. The Hamiltonian for the system is given by:
  
  
- $ H = \hbar\chi(a^{\dagger 2} a^2) $
+ $$ H = \hbar\chi(a^{\dagger 2} a^2) $$
  
- We would like to recall that a certain superposition of states in a system, act as a eigen state to the lowering operator $a$, and we call this superposition state, the coherent state |$\alpha$> and the time dependent coherent state $|\alpha (t)>$ is given as:
- {$$|\alpha (t)> = e^{- \dfrac{|{\alpha^2}|}{2}} \sum_{n=0}^\infty \dfrac{\alpha^{n}}{\sqrt{n!}} e^{\dfrac{-iHt}{\hbar}}|n>$$
+ We would like to recall that a certain superposition of states in a system, act as a eigen state to the lowering operator $a$, and we call this superposition state, the coherent state $\alpha$ and the time dependent coherent state $\alpha (t)$ is given as:
+ {$$\alpha (t) = e^{- \dfrac{{\alpha^2}}{2}} \sum_{n=0}^\infty \dfrac{\alpha^{n}}{\sqrt{n!}} e^{\dfrac{-iHt}{\hbar}}n$$
 
  The average position with respect to time $<x(t)>$ is plotted as follows.
 
