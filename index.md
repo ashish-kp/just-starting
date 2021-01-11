@@ -1,6 +1,6 @@
  # Higher Moments Of Observables in a Non-Linear Kerr Medium     
  
- Here the codes and the resulting plots for the observables and their combinations for a Kerr medium are given. The Hamiltonian for the system is given by:
+ Here the codes and the resulting plots for the observables and their combinations for a Kerr medium are given. The Hamiltonian for the system is given by: nigga
  
  
  $ H = \hbar\chi(a^{\dagger 2} a^2) $
